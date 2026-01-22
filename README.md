@@ -19,7 +19,7 @@ A simple book recommendation web app built with Flask and collaborative filterin
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/NabilaEusha/Book-Recommender-System.git
 cd book_recommender_system
 
 # Install dependencies
